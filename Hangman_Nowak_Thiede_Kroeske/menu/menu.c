@@ -1,6 +1,15 @@
+/**
+
+    ---- MENU.c ----
+
+Author: Nico Nowak
+10.04.2021
+
+**/
+
 #include "menu.h"
 #include <stdio.h>
-#include "CUI.h"
+#include "../CUI.h"
 
 // ----- FUNCTION DEFINITIONS -----
 /// Shows the main menu of the hangman game.

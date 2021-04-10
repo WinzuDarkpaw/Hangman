@@ -11,7 +11,7 @@ Author: Nico Nowak
 #include <stdio.h>
 #include <stdlib.h>
 #include "CUI.h"
-#include "menu.h"
+#include "menu/menu.h"
 
 int main()
 {
