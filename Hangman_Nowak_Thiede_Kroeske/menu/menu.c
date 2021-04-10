@@ -23,6 +23,9 @@ char menu_show()
     cui_setCursor(2,4);
     printf("S -- Start a game of hangman!");
 
+    cui_setCursor(2,5);
+    printf("E -- Close the game.");
+
     // Create the border for Input
     cui_createSmallBorder(2, 10, 5, 3);
 

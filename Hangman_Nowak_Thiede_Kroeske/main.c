@@ -13,6 +13,7 @@ Author: Nico Nowak
 #include "CUI.h"
 #include "menu/menu.h"
 #include "menu/menuInput.h"
+#include "game/game.h"
 
 int main()
 {
@@ -33,6 +34,7 @@ int main()
         case START_GAME:
         {
             // Start the game window.
+            initialize_game();
         }
         case CLOSE_GAME:
         default:

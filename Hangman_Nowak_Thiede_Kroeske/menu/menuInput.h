@@ -10,6 +10,7 @@ Author: Nico Nowak
 #ifndef MENUINPUT_H_INCLUDED
 #define MENUINPUT_H_INCLUDED
 
+// ----- FUNCTION PROTOTYPES -----
 /// Uses the users input letter to get the menu item code.
 /// 1 = Start game.
 /// 2 = Close window.

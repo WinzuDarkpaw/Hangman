@@ -30,21 +30,25 @@
 1618069945 e:\godot\hangman\hangman_nowak_thiede_kroeske\cui.h
 	<windows.h>
 
-1618070539 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\main.c
+1618072336 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\main.c
 	<stdio.h>
 	<stdlib.h>
 	"CUI.h"
-	"menu.h"
+	"menu/menu.h"
+	"menu/menuInput.h"
 
 1618071188 e:\godot\hangman\hangman_nowak_thiede_kroeske\menu.h
 
-1618071398 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\menu\menuinput.c
+1618072105 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\menu\menuinput.c
 	<stdio.h>
+	"menuInput.h"
 
 1618071446 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\menu\menu.c
 	"menu.h"
 	<stdio.h>
 	"../CUI.h"
 
-1618071188 e:\godot\hangman\hangman_nowak_thiede_kroeske\menu\menu.h
+1618072212 e:\godot\hangman\hangman_nowak_thiede_kroeske\menu\menu.h
+
+1618071997 e:\godot\hangman\hangman_nowak_thiede_kroeske\menu\menuinput.h
 
