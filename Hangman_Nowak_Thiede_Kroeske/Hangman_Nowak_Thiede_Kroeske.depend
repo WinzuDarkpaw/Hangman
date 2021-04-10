@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1618069927 source:c:\users\nicon\documents\schule\programs\hangman_nowak_thiede_kroeske\cui.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"CUI.h"
+
+1618069945 c:\users\nicon\documents\schule\programs\hangman_nowak_thiede_kroeske\cui.h
+	<windows.h>
+
+1618070539 source:c:\users\nicon\documents\schule\programs\hangman_nowak_thiede_kroeske\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CUI.h"
+	"menu.h"
+
+1618070430 c:\users\nicon\documents\schule\programs\hangman_nowak_thiede_kroeske\menu.h
+
+1618070646 source:c:\users\nicon\documents\schule\programs\hangman_nowak_thiede_kroeske\menu.c
+	"menu.h"
+	<stdio.h>
+	"CUI.h"
+
