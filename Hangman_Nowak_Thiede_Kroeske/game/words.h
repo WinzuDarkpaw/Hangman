@@ -13,5 +13,6 @@ Author: Nico Nowak
 // ----- FUNCTION PROTOTYPES -----
 /// Chooses a random word to guess.
 char* get_word();
+char* choose_word();
 
 #endif // GAME_H_INCLUDED

@@ -53,17 +53,18 @@
 
 1618072649 e:\godot\hangman\hangman_nowak_thiede_kroeske\menu\menuinput.h
 
-1618209862 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\game\game.c
+1618210825 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\game\game.c
+	"words.h"
 	"../menu/menu.h"
 	<stdio.h>
 	"../CUI.h"
 
 1618072774 e:\godot\hangman\hangman_nowak_thiede_kroeske\game\game.h
 
-1618210001 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\game\words.c
+1618210716 source:e:\godot\hangman\hangman_nowak_thiede_kroeske\game\words.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 
-1618208483 e:\godot\hangman\hangman_nowak_thiede_kroeske\game\words.h
+1618210555 e:\godot\hangman\hangman_nowak_thiede_kroeske\game\words.h
 
