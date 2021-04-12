@@ -35,13 +35,25 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="CUI.h" />
+		<Unit filename="game/game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="game/game.h" />
+		<Unit filename="game/words.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="game/words.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="menu.c">
+		<Unit filename="menu/menu.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="menu.h" />
+		<Unit filename="menu/menu.h" />
+		<Unit filename="menu/menuInput.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu/menuInput.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

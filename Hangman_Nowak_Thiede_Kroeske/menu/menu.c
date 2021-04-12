@@ -16,6 +16,7 @@ Author: Nico Nowak
 /// The Cursor will be set inside of the input border.
 char menu_show()
 {
+    cui_clear();
     cui_setCursor(2,2);
     printf("HANGMAN __");
 
